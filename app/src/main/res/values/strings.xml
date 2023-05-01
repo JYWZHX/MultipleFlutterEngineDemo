@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultipleFlutterEngineDemo</string>
+    <string name="conversation">tab1</string>
+</resources>
